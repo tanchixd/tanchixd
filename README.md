@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot....​)](https://rishavchanda.io​)
+[![MasterHead](https://share.google/xMZvN10ohggy3UEco)](https://rishavchanda.io​)
 
 # 👋 Hi, I'm Tanchi !!!
 
