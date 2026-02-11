@@ -1,4 +1,4 @@
-![Header](./[IMG_20260108_144018.png])
+<img width="1280" height="320" alt="Image" src="https://github.com/user-attachments/assets/c4a7a08a-6cc6-4c8b-9939-50c9a22300c3" />
 
 
 # 👋 Hi, I'm Tanchi !!!
