@@ -56,7 +56,7 @@ Curiosity fuels me. Rigor disciplines me.
 
 ---
 
-<h2 align="left">I am still learning/h2>
+<h2 align="left">I am still learning>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
