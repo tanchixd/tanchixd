@@ -18,7 +18,7 @@ I don’t chase surface-level knowledge.
 I break concepts down, rebuild them, and push until the *why* becomes obvious.
 
 Curiosity fuels me. Rigor disciplines me.
-
+![Image](https://github.com/user-attachments/assets/d5692dc6-4f74-4e28-8981-c3f981aeda90)
 ---
 
 ## 🏆 Achievements & Recognition
