@@ -1,4 +1,4 @@
-![Header](./[IMG_20260108_144018.png].png)
+![Header](./[IMG_20260108_144018.png])
 
 
 # 👋 Hi, I'm Tanchi !!!
