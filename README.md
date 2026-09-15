@@ -1,362 +1,530 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:7C3AED,100:06B6D4&height=240&section=header&text=TANCHI&fontSize=76&fontColor=FFFFFF&fontAlignY=38&desc=Software%20%7C%20AI%20%7C%20Science&descAlignY=62&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,50:7C3AED,100:C084FC&height=220&section=header&text=TanchiXD&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Science%20Lover.%20Maths%20Enthusiast.&descAlignY=65&descSize=22&descColor=E9D5FF" width="100%" alt="TanchiXD purple banner"/>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=Student+Developer;AI+%26+Machine+Learning+Explorer;Scientific+Simulation+Builder;Turning+curiosity+into+software." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=Research-driven+student%2C+developer%2C+designer;Science+%C3%97+AI+%C3%97+Mathematics;Curiosity+%3E+Comfort;Knowledge+%3E+Noise" alt="Typing animation"/>
 
 <br><br>
 
-<a href="https://tanchixd.github.io/">
-<img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
 <a href="https://github.com/TanchiXD">
-<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-TanchiXD-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="https://tanchixd.github.io/">
+<img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="mailto:tanchilabs@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-tanchilabs%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://buymeacoffee.com/tanchixd">
-<img src="https://img.shields.io/badge/SUPPORT-FACC15?style=for-the-badge&logo=buymeacoffee&logoColor=111827" />
+<img src="https://img.shields.io/badge/Support_My_Work-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=TanchiXD&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=TanchiXD&label=Profile%20Views&color=A855F7&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
 ---
 
-<div align="center">
+# 🧠 About Me
 
-## `THINK DEEPER. CREATE FASTER.`
+Hey, I'm Tanchi — a research-driven student, developer, designer, martial artist, and curious mind.
 
-</div>
+I explore the connection between science, artificial intelligence, mathematics, software, creativity, and the future.
 
-## About
+I enjoy turning difficult ideas into simple explanations, experiments, simulations, and real projects.
 
-I’m **Tanchi**, a student developer exploring the intersection of software engineering, artificial intelligence, mathematics, physics, and creative technology.
-
-I enjoy transforming complicated ideas into interactive tools, experiments, and applications.
-
-My interests include:
-
-- Artificial Intelligence
-- Software Engineering
-- Theoretical and Quantum Physics
-- Mathematics
-- Scientific Simulations
-- Interactive Education
-- Creative Technology
-
-> **Curiosity fuels me. Rigor disciplines me.**
+I don't just want to use technology. I want to understand it, improve it, and create with it.
 
 ---
 
-## Current Focus
+# 🔬 My Interests
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## Science & Research
 
-<h3 align="center">Crimson AI</h3>
+| | |
+|---|---|
+| 🤖 | Artificial Intelligence |
+| ⚛️ | Theoretical Physics |
+| 🔮 | Quantum Computing |
+| 🧮 | Mathematics |
+| 💻 | Computer Science |
+| 🔬 | Scientific Computing |
+| 🧪 | Scientific Simulations |
+| 🧠 | AI Learning |
+| 📚 | Philosophy of Science |
+| 🌀 | Paradoxes and Thought Experiments |
+| 🎓 | Educational Technology |
+| 🚀 | Future Technologies |
 
-<div align="center">
-<img src="https://img.shields.io/badge/AI%20ASSISTANT-DC2626?style=for-the-badge&logo=openai&logoColor=white" />
-</div>
+## Technology & Development
 
-A customizable AI assistant focused on a polished chat experience.
+| | |
+|---|---|
+| 🤖 | AI assistants |
+| 🧠 | Large Language Models |
+| 🔌 | AI APIs |
+| 🧬 | Machine Learning |
+| 🧪 | LoRA fine-tuning |
+| ⚙️ | AI agents |
+| 🔀 | Model routing |
+| 🖥️ | Local AI |
+| 📱 | Android development |
+| 🌐 | Web development |
+| 📲 | Progressive Web Apps |
+| 🎨 | Creative software |
+| 🎓 | Educational applications |
 
-**Exploring:**
+## Creativity
 
-- Multi-provider AI
-- Streaming responses
-- Model routing
-- Fallback systems
-- Local-first conversations
-- Custom AI workflows
-- PWA architecture
-
-<div align="center">
-<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-DC2626?style=flat-square" />
-</div>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">Crimson Learner</h3>
-
-<div align="center">
-<img src="https://img.shields.io/badge/LO--RA-MODEL%20TRAINING-F59E0B?style=for-the-badge&logo=pytorch&logoColor=white" />
-</div>
-
-An experimental personal language-model project being fine-tuned with LoRA.
-
-**Current focus:**
-
-- LoRA fine-tuning
-- Training data
-- Model experimentation
-- Training workflows
-- Chatbot integration
-- Future PWA support
-
-<div align="center">
-<img src="https://img.shields.io/badge/STATUS-TRAINING-F59E0B?style=flat-square" />
-</div>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-<h3>OpenLabs V01</h3>
-
-<img src="https://img.shields.io/badge/SCIENTIFIC%20SIMULATION-06B6D4?style=for-the-badge&logo=atom&logoColor=white" />
-
-</div>
-
-An interactive virtual science laboratory designed to make difficult concepts easier to understand through experimentation.
-
-### Physics
-
-`Projectile Motion` · `Gravity` · `Orbits` · `Pendulums` · `Waves` · `Circuits` · `Lenses` · `Gas Particles`
-
-### Chemistry
-
-`Atom Builder` · `Periodic Table` · `Reaction Visualizer` · `pH Experiments` · `Molecular Viewer`
-
-### Biology
-
-`Punnett Squares` · `Ecosystems` · `Cell Explorer` · `Natural Selection`
-
-### Mission Omega
-
-A space-science simulation exploring:
-
-`Planets` · `Gravity` · `Atmospheres` · `Rockets` · `Orbits` · `Collisions` · `Energy` · `Velocity` · `Acceleration`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/PWA-7C3AED?style=flat-square&logo=pwa&logoColor=white" />
-
-<br>
-
-<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-06B6D4?style=flat-square" />
-
-</div>
+| | |
+|---|---|
+| 🎨 | UI/UX design |
+| 🖌️ | Canva design |
+| 🏷️ | Branding |
+| 🪪 | Digital identities |
+| 🌐 | Website layouts |
+| 🖼️ | Banners and thumbnails |
+| 👾 | Digital avatars |
+| 📖 | Creative storytelling |
+| 🔬 | Science communication |
 
 ---
 
-## Featured Projects
+# 💻 Technical Skills
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## Programming Languages
 
-### Temp EmailGen
+<div align="center">
 
-Temporary email web application.
+<img src="https://skillicons.dev/icons?i=kotlin,java,python,js,ts,html,css&perline=7" alt="Programming languages"/>
 
-<a href="https://temporary-emailgen.vercel.app/">
-<img src="https://img.shields.io/badge/LIVE%20PROJECT-16A34A?style=for-the-badge&logo=vercel&logoColor=white" />
+<br><br>
+
+<img src="https://img.shields.io/badge/Kotlin-A855F7?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+<img src="https://img.shields.io/badge/JavaScript-A855F7?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Python-A855F7?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/HTML-A855F7?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+<img src="https://img.shields.io/badge/CSS-A855F7?style=for-the-badge&logo=css&logoColor=white" alt="CSS"/>
+<img src="https://img.shields.io/badge/JavaScript%20%2F%20TypeScript-A855F7?style=for-the-badge&logo=typescript&logoColor=white" alt="JavaScript / TypeScript"/>
+
+</div>
+
+## Development
+
+| | |
+|---|---|
+| 📱 | Android Development |
+| 🎨 | Jetpack Compose |
+| 🛠️ | Android Studio |
+| 🌐 | Web Development |
+| ⚛️ | React |
+| ⚡ | Vite |
+| 📲 | Progressive Web Apps |
+| 📐 | Responsive UI |
+| 🔌 | API Integration |
+| 🤖 | AI Application Development |
+| 🔬 | Scientific Simulations |
+
+---
+
+# 🛠️ Tools & Platforms
+
+## 💻 Development Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,canva,androidstudio&perline=6" alt="Development tools"/>
+
+</div>
+
+## 🤖 AI Platforms
+
+<div align="center">
+
+<a href="https://chatgpt.com/">
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+</a>
+<a href="https://openai.com/">
+<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+</a>
+<a href="https://gemini.google.com/">
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini"/>
+</a>
+<a href="https://aistudio.google.com/">
+<img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Studio"/>
+</a>
+<a href="https://claude.ai/">
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+</a>
+<a href="https://x.ai/">
+<img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" alt="Grok"/>
+</a>
+<a href="https://www.perplexity.ai/">
+<img src="https://img.shields.io/badge/Perplexity-20B8CD?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity"/>
+</a>
+<a href="https://www.deepseek.com/">
+<img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logoColor=white" alt="DeepSeek"/>
+</a>
+<a href="https://mistral.ai/">
+<img src="https://img.shields.io/badge/Mistral_AI-FF7000?style=for-the-badge&logoColor=white" alt="Mistral AI"/>
+</a>
+<a href="https://www.meta.ai/">
+<img src="https://img.shields.io/badge/Meta_AI-0866FF?style=for-the-badge&logo=meta&logoColor=white" alt="Meta AI"/>
+</a>
+<a href="https://copilot.microsoft.com/">
+<img src="https://img.shields.io/badge/Microsoft_Copilot-5E5CE6?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Copilot"/>
+</a>
+<a href="https://github.com/features/copilot">
+<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
+</a>
+<a href="https://qwenlm.github.io/">
+<img src="https://img.shields.io/badge/Qwen-6155F5?style=for-the-badge&logoColor=white" alt="Qwen"/>
+</a>
+<a href="https://www.llama.com/">
+<img src="https://img.shields.io/badge/Llama-0467DF?style=for-the-badge&logoColor=white" alt="Llama"/>
+</a>
+<a href="https://huggingface.co/">
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+</a>
+<a href="https://replicate.com/">
+<img src="https://img.shields.io/badge/Replicate-000000?style=for-the-badge&logoColor=white" alt="Replicate"/>
+</a>
+<a href="https://openrouter.ai/">
+<img src="https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logoColor=white" alt="OpenRouter"/>
+</a>
+<a href="https://groq.com/">
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" alt="Groq"/>
+</a>
+<a href="https://www.together.ai/">
+<img src="https://img.shields.io/badge/Together_AI-000000?style=for-the-badge&logoColor=white" alt="Together AI"/>
+</a>
+<a href="https://www.cerebras.ai/">
+<img src="https://img.shields.io/badge/Cerebras-000000?style=for-the-badge&logoColor=white" alt="Cerebras"/>
+</a>
+<a href="https://ollama.com/">
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white" alt="Ollama"/>
+</a>
+<a href="https://www.langchain.com/">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white" alt="LangChain"/>
+</a>
+<a href="https://cursor.com/">
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white" alt="Cursor"/>
+</a>
+<a href="https://www.anthropic.com/claude-code">
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
 </a>
 
-</td>
+</div>
 
-<td width="50%" valign="top">
+## 🔌 AI APIs & Infrastructure
 
-### ReelWide
+| AI Platform |
+|---|
+| OpenAI API |
+| Gemini API |
+| OpenRouter |
+| Groq |
+| Together AI |
+| Cerebras |
+| Ollama |
+| LangChain |
 
-Landscape-friendly Reel viewer.
+## 🧰 AI Development & Creative Platforms
+
+| Tool / Platform |
+|---|
+| Google Antigravity |
+| Base44 |
+| Bolt.new |
+| Lovable |
+| Replit |
+| v0 |
+| Manus |
+| OpenCode |
+| Hermes AI |
+| Sora |
+| Midjourney |
+| Stable Diffusion |
+| Runway |
+| Kling AI |
+| Higgsfield |
+| Google Veo |
+| Canva AI |
+
+---
+
+# 🚀 My Projects
+
+## 🔴 Crimson AI
+
+**Status:** In development
+
+My personal AI assistant project focused on creating a polished chat experience with flexible AI models, customization, productivity tools, and future agent workflows.
+
+### Exploring:
+
+| | |
+|---|---|
+| 🤖 | AI APIs |
+| 💬 | Chat interfaces |
+| 🔀 | Model routing |
+| 🔌 | Custom AI providers |
+| 📲 | PWA architecture |
+| 💾 | Local-first systems |
+| 🧠 | AI productivity tools |
+| 🚀 | Future AI agents |
+
+**Tagline:** Think deeper. Create faster.
+
+---
+
+## 🧠 Crimson Learner
+
+**Status:** Experimental
+
+An experimental personal language-model project exploring model customization and LoRA fine-tuning.
+
+Exploring Python, machine learning, language models, LoRA fine-tuning, and AI learning systems.
+
+---
+
+## 🔬 OpenLabs V01
+
+**Status:** Building
+
+An interactive scientific learning platform designed to make science more visual, understandable, and affordable.
+
+Can be used at places that lacks a science lab.
+
+"Science Lab in your pocket'
+
+### Current and planned areas:
+
+| | |
+|---|---|
+| ⚛️ | Physics simulations |
+| 🧪 | Chemistry experiments |
+| 🧬 | Biology concepts |
+
+**Tech:** HTML, CSS, JavaScript, PWA
+
+---
+
+## 🎬 ReelWide
+
+**Status:** Live
+
+A web tool designed to transform Facebook Reels into a landscape-friendly viewing experience with selectable aspect ratios.
+
+**Live Demo:** [reelwide](https://reelwide.vercel.app/)
 
 <a href="https://reelwide.vercel.app/">
-<img src="https://img.shields.io/badge/LIVE%20PROJECT-16A34A?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/🌐_Live_Demo-ReelWide-A855F7?style=for-the-badge" alt="ReelWide live demo"/>
 </a>
 
-</td>
-</tr>
+---
 
-<tr>
-<td width="50%" valign="top">
+## 📧 Temp EmailGen
 
-### Crimson AI
+**Status:** Live
 
-Custom AI assistant.
+A temporary email web app created for quick and convenient email generation.
 
-<img src="https://img.shields.io/badge/BUILDING-DC2626?style=for-the-badge" />
+**Live Demo:** [temporary-emailgen](https://temporary-emailgen.vercel.app/)
 
-</td>
+<a href="https://temporary-emailgen.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-Temp_EmailGen-8B5CF6?style=for-the-badge" alt="Temp EmailGen live demo"/>
+</a>
 
-<td width="50%" valign="top">
+---
 
-### Crimson Learner
+## 🌿 Plant Marketplace
 
-LoRA fine-tuning experiment.
+**Status:** Planned / In development
 
-<img src="https://img.shields.io/badge/TRAINING-F59E0B?style=for-the-badge" />
+A social marketplace concept for plant lovers.
 
-</td>
-</tr>
+### Features and vision:
 
-<tr>
-<td width="50%" valign="top">
+| | |
+|---|---|
+| 📸 | Share plant photos |
+| 🪴 | Buy and sell plants |
+| 🤝 | Connect with plant enthusiasts |
+| 🌍 | Build a community around nature |
 
-### OpenLabs V01
+---
 
-Virtual science laboratory.
+## 🌐 Personal Portfolio
 
-<img src="https://img.shields.io/badge/BUILDING-06B6D4?style=for-the-badge" />
+My personal website for showcasing my projects, achievements, interests, experiments, and creative work.
 
-</td>
-
-<td width="50%" valign="top">
-
-### Portfolio
-
-Personal website and digital identity.
+**Website:** [Myself](https://tanchixd.github.io/)
 
 <a href="https://tanchixd.github.io/">
-<img src="https://img.shields.io/badge/VISIT-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-A855F7?style=for-the-badge" alt="Portfolio"/>
 </a>
 
-</td>
-</tr>
-</table>
+---
+
+# 🏆 Achievements
+
+## 🥋 Martial Arts & Sports
+
+| | |
+|---|---|
+| 🥇 | National ITF Taekwondo Gold Medalist |
+| 🥋 | Qwan-Ki-Doh national-level qualification |
+| 🏅 | Competitive martial arts experience |
+| 🏊 | Certified swimmer with district recognition |
+
+## 🧠 Academic & Learning
+
+| | |
+|---|---|
+| 🏆 | 150+ certificates, awards, and recognitions |
+| 🧮 | UCMAS Abacus — all 8 levels completed with distinction |
+| 🏅 | UCMAS state, district, and national recognition |
+| 🧠 | Vedic Maths Student of the Year |
+| 📚 | Completed all 3 Vedic Maths levels |
+| 🎸 | Certified guitarist |
+| 🎨 | Advanced Canva designer |
+| 📰 | School Chief Magazine Designer |
 
 ---
 
-## Technology Stack
+# 🎨 Creative Work
+
+Apart from programming, I enjoy:
+
+| | |
+|---|---|
+| 🎨 | Advanced Canva design |
+| 🏷️ | Branding |
+| 🪪 | Digital identities |
+| 🎨 | UI/UX design |
+| 🌐 | Website layouts |
+| 🖼️ | Banners |
+| 🖼️ | Thumbnails |
+| 👾 | Digital avatars |
+| 🎮 | Minecraft Bedrock development |
+| 🧱 | Minecraft texture packs |
+| 🧪 | Minecraft Education Edition experiments |
+| 📖 | Creative storytelling |
+| 🔬 | Science communication |
+
+---
+
+# 🚀 My Long-Term Vision
+
+I want to build a future around:
+
+| | |
+|---|---|
+| 🤖 | Artificial Intelligence |
+| 📱 | Android applications |
+| 🌐 | Web platforms |
+| 🔬 | Scientific research |
+| 🎓 | Educational technology |
+| 🎨 | Creative software |
+| ⚛️ | Scientific simulations |
+| 🚀 | Independent products |
+| 🔮 | Future technologies |
+
+I do not only want to use technology.
+
+I want to understand it, improve it, and create with it.
+
+---
+
+# 🎯 My Current Mission
+
+Build things that make people think.
+
+Explore artificial intelligence.
+
+Create useful Android applications.
+
+Build beautiful web experiences.
+
+Turn scientific ideas into simulations.
+
+Design memorable digital experiences.
+
+Study difficult concepts deeply.
+
+Experiment with new technologies.
+
+Keep questioning how the world works.
+
+---
+
+# 📬 Connect With Me
 
 <div align="center">
 
-### Languages
+<a href="https://github.com/TanchiXD">
+<img src="https://img.shields.io/badge/GitHub-TanchiXD-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
 
-<img src="https://skillicons.dev/icons?i=kotlin,html,css,js,python" />
+<a href="https://tanchixd.github.io/">
+<img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+
+<a href="mailto:tanchilabs@gmail.com">
+<img src="https://img.shields.io/badge/Email-tanchilabs%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://buymeacoffee.com/tanchixd">
+<img src="https://img.shields.io/badge/Support_my_work-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee"/>
+</a>
+<a href="https://discord.gg/fyMEVdG4">
+  <img src="https://img.shields.io/badge/Discord-tanchi__xd-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+<br><br>
+
+<a href="https://github.com/TanchiXD">GitHub</a>
+&nbsp; • &nbsp;
+<a href="https://tanchixd.github.io/">Portfolio</a>
+&nbsp; • &nbsp;
+<a href="mailto:tanchilabs@gmail.com">Email</a>
 
 <br><br>
 
-### Tools and Platforms
+<a href="https://buymeacoffee.com/tanchixd">
+<img src="https://img.shields.io/badge/☕_Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee"/>
+</a>
 
-<img src="https://skillicons.dev/icons?i=androidstudio,react,vite,git,github,linux" />
+</div>
+
+---
+
+# 🧠 Final Thought
+
+<div align="center">
+
+## Keep exploring.
+
+## Keep building.
+
+## Keep questioning.
+
+<br>
+
+### Knowledge > Noise
+
+### Depth > Speed
+
+### Curiosity > Comfort
+
+<br>
+
+Made with curiosity, creativity, caffeine, and countless experiments by TanchiXD.
 
 <br><br>
 
-### Exploring
-
-<img src="https://skillicons.dev/icons?i=threejs,nodejs,sqlite,postgres" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,50:7C3AED,100:C084FC&height=120&section=footer" width="100%" alt="Purple footer"/>
 
 </div>
-
----
-
-## Research Interests
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Theoretical%20Physics-2563EB?style=for-the-badge&logo=atom&logoColor=white" />
-<img src="https://img.shields.io/badge/Quantum%20Computing-0891B2?style=for-the-badge&logo=quantconnect&logoColor=white" />
-<img src="https://img.shields.io/badge/Mathematics-DB2777?style=for-the-badge&logo=wolframmathematica&logoColor=white" />
-<img src="https://img.shields.io/badge/Scientific%20Simulations-059669?style=for-the-badge&logo=labview&logoColor=white" />
-<img src="https://img.shields.io/badge/Computer%20Science-4F46E5?style=for-the-badge&logo=computer&logoColor=white" />
-
-</div>
-
-My current research interests include:
-
-- AI learning systems
-- Model training and fine-tuning
-- Theoretical physics
-- Quantum physics
-- Quantum computing
-- Mathematics and logic
-- Scientific simulations
-- Paradoxes
-- Philosophy of science
-- Original ideas and thought experiments
-
-> **What happens if we change the rules?**
-
----
-
-## Beyond Code
-
-I also work with:
-
-- Digital branding
-- Canva design
-- Website banners
-- YouTube thumbnails
-- Digital avatars
-- UI concepts
-- School magazine layouts
-- Minecraft Bedrock texture packs
-- Minecraft Education Edition experiments
-
----
-
-## Achievements
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/400%2B-AWARDS%20%26%20RECOGNITIONS-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/NATIONAL-ITF%20TAEKWONDO%20GOLD-F59E0B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/UCMAS-8%20LEVELS%20DISTINCTION-06B6D4?style=for-the-badge" />
-
-</div>
-
-- National ITF Taekwondo gold medal
-- Qwan-Khi-Doh qualification
-- UCMAS Abacus — all 8 levels with distinction
-- State, district, and national-level recognition
-- Vedic Maths Student of the Year
-- Completed all 3 Vedic Maths levels
-- Certified swimmer with district recognition
-- Certified guitarist
-- Advanced Canva designer
-- School Chief Magazine Designer
-- Consistent 90%+ academic performance
-
----
-
-## Personal Philosophy
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/DEPTH-OVER-SPEED-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/UNDERSTANDING-OVER-MEMORIZATION-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/KNOWLEDGE-OVER-NOISE-0891B2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/EXPERIMENTS-OVER-ASSUMPTIONS-059669?style=for-the-badge" />
-
-</div>
-
-> If I can’t explain it simply, I don’t understand it yet.
-
----
-
-## Learning Loop
-
-<div align="center">
-
-```text
-ASK BETTER QUESTIONS
-        ↓
-UNDERSTAND THE FUNDAMENTALS
-        ↓
-BUILD A SMALL EXPERIMENT
-        ↓
-BREAK COMPLICATED IDEAS APART
-        ↓
-IMPROVE THROUGH ITERATION
-        ↓
-SHARE WHAT I LEARN
